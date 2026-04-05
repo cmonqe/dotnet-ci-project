@@ -15,6 +15,8 @@ builder.Services.AddCors();
 
 var app = builder.Build();
 
+Console.WriteLine("CI works!");
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
