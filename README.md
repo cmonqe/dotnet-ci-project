@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Description
 This project is the .Net backend part of an educational  project. It provides connection to DB, implements CRUD operations and sends responses to requests. 
 
@@ -14,3 +15,6 @@ The content can be created by script
 ```
 it ensures that five products are inserted with the original prices.
 Connection string to DB should be provided in appsettings.json in ConnectionStrings section, under Default name.
+=======
+# dotnet-ci-project
+>>>>>>> 9b831a0ae4c5a8fa82c73736e939be05a1b51efe
